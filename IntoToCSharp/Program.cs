@@ -36,6 +36,7 @@ class Player
     //M.I.
     //M.I.
 
+}
     class Student
     {
         public Student() { }
