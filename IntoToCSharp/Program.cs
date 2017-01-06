@@ -17,8 +17,8 @@ namespace IntroCSharp
         //M.I.
         private string name;
         public string Name;
-        }
     }
+}
 
 
 class Zombie
@@ -37,7 +37,9 @@ class Player
     //M.I.
 
 }
-    class Student
+
+
+class Student
     {
         public Student() { }
         public Student;
